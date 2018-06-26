@@ -38,65 +38,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="detail.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="79" column="7" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="detail.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Desktop/seckill/src/main/webapp/WEB-INF/jsp/detail.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="466">
-              <caret line="76" column="11" lean-forward="true" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="seckill.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/script/seckill.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1197">
-              <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SeckillService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/service/SeckillService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SeckillServiceImpl.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SeckillServiceImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/service/impl/SeckillServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-389">
-              <caret line="75" column="19" lean-forward="true" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="542">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="608">
+              <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -107,8 +53,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
@@ -132,14 +78,12 @@
         <option value="$PROJECT_DIR$/src/test/java/com/igreedy/dao/SeckillDaoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/igreedy/entity/SuccessKilled.java" />
         <option value="$PROJECT_DIR$/src/main/sql/schema.sql" />
-        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/igreedy/exception/SeckillException.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/igreedy/exception/SeckillCloseException.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/igreedy/exception/RepeatKillException.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/igreedy/service/SeckillService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/igreedy/enums/SeckillStatEnum.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/igreedy/dto/Exposer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/igreedy/service/impl/SeckillServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/resources/spring/spring-service.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/igreedy/dto/SeckillExecution.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/igreedy/service/SeckillServiceTest.java" />
@@ -151,6 +95,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/igreedy/web/SeckillController.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/script/seckill.js" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/igreedy/dao/cache/RedisDao.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/igreedy/dao/cache/RedisDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/igreedy/service/impl/SeckillServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -171,8 +120,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="155" />
-    <option name="y" value="157" />
+    <option name="x" value="474" />
+    <option name="y" value="127" />
     <option name="width" value="1384" />
     <option name="height" value="864" />
   </component>
@@ -205,32 +154,34 @@
               <item name="seckill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
               <item name="seckill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="igreedy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
               <item name="seckill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="script" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="igreedy" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="seckill" type="b2602c69:ProjectViewProjectNode" />
               <item name="seckill" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="igreedy" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -250,10 +201,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.igreedy.dao.cache" />
       <recent name="com.igreedy.service" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -279,24 +231,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.tomcat_1">
+  <component name="RunManager" selected="JUnit.RedisDaoTest.testSeckill">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="SeckillServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RedisDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="seckill" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.igreedy.service.*" />
+          <option name="PATTERN" value="com.igreedy.dao.cache.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.igreedy.service" />
-      <option name="MAIN_CLASS_NAME" value="com.igreedy.service.SeckillServiceTest" />
+      <option name="PACKAGE_NAME" value="com.igreedy.dao.cache" />
+      <option name="MAIN_CLASS_NAME" value="com.igreedy.dao.cache.RedisDaoTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="RedisDaoTest.testSeckill" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="seckill" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.igreedy.dao.cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.igreedy.dao.cache" />
+      <option name="MAIN_CLASS_NAME" value="com.igreedy.dao.cache.RedisDaoTest" />
+      <option name="METHOD_NAME" value="testSeckill" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -365,29 +340,6 @@
       <option name="PACKAGE_NAME" value="com.igreedy.service" />
       <option name="MAIN_CLASS_NAME" value="com.igreedy.service.SeckillServiceTest" />
       <option name="METHOD_NAME" value="exportSeckillUrl" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="SeckillServiceTest.getById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="seckill" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.igreedy.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.igreedy.service" />
-      <option name="MAIN_CLASS_NAME" value="com.igreedy.service.SeckillServiceTest" />
-      <option name="METHOD_NAME" value="getById" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -578,19 +530,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.tomcat_1" />
-      <item itemvalue="JUnit.SeckillServiceTest.getById" />
-      <item itemvalue="JUnit.SeckillServiceTest" />
       <item itemvalue="JUnit.SeckillServiceTest.exportSeckillUrl" />
       <item itemvalue="JUnit.SeckillServiceTest.executeSeckill" />
       <item itemvalue="JUnit.SeckillServiceTest.exportSeckillLogic" />
+      <item itemvalue="JUnit.RedisDaoTest.testSeckill" />
+      <item itemvalue="JUnit.RedisDaoTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RedisDaoTest.testSeckill" />
+        <item itemvalue="JUnit.RedisDaoTest" />
         <item itemvalue="JUnit.SeckillServiceTest.exportSeckillLogic" />
         <item itemvalue="JUnit.SeckillServiceTest.executeSeckill" />
         <item itemvalue="JUnit.SeckillServiceTest.exportSeckillUrl" />
-        <item itemvalue="JUnit.SeckillServiceTest" />
-        <item itemvalue="JUnit.SeckillServiceTest.getById" />
       </list>
     </recent_temporary>
   </component>
@@ -609,47 +561,47 @@
       <workItem from="1529631499668" duration="22626000" />
       <workItem from="1529663592165" duration="225000" />
       <workItem from="1529822512396" duration="623000" />
-      <workItem from="1529892416493" duration="11838000" />
+      <workItem from="1529892416493" duration="22668000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SeckillServiceTest_exportSeckillUrl - 2018.06.22 at 17h 59m 20s.xml">
-      <configuration name="SeckillServiceTest.exportSeckillUrl" configurationId="JUnit" />
+    <history-entry file="RedisDaoTest - 2018.06.25 at 20h 30m 14s.xml">
+      <configuration name="RedisDaoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceTest_exportSeckillUrl - 2018.06.22 at 18h 00m 29s.xml">
-      <configuration name="SeckillServiceTest.exportSeckillUrl" configurationId="JUnit" />
+    <history-entry file="RedisDaoTest - 2018.06.25 at 20h 30m 50s.xml">
+      <configuration name="RedisDaoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceTest_exportSeckillUrl - 2018.06.22 at 18h 02m 09s.xml">
-      <configuration name="SeckillServiceTest.exportSeckillUrl" configurationId="JUnit" />
+    <history-entry file="RedisDaoTest - 2018.06.25 at 20h 32m 17s.xml">
+      <configuration name="RedisDaoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceTest_executeSeckill - 2018.06.22 at 18h 03m 40s.xml">
-      <configuration name="SeckillServiceTest.executeSeckill" configurationId="JUnit" />
+    <history-entry file="RedisDaoTest - 2018.06.25 at 20h 35m 02s.xml">
+      <configuration name="RedisDaoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceTest_executeSeckill - 2018.06.22 at 18h 04m 51s.xml">
-      <configuration name="SeckillServiceTest.executeSeckill" configurationId="JUnit" />
+    <history-entry file="RedisDaoTest - 2018.06.25 at 20h 35m 33s.xml">
+      <configuration name="RedisDaoTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceTest_executeSeckill - 2018.06.22 at 18h 06m 12s.xml">
-      <configuration name="SeckillServiceTest.executeSeckill" configurationId="JUnit" />
+    <history-entry file="RedisDaoTest_testSeckill - 2018.06.25 at 20h 35m 54s.xml">
+      <configuration name="RedisDaoTest.testSeckill" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceTest_executeSeckill - 2018.06.22 at 18h 07m 09s.xml">
-      <configuration name="SeckillServiceTest.executeSeckill" configurationId="JUnit" />
+    <history-entry file="RedisDaoTest_testSeckill - 2018.06.25 at 20h 36m 43s.xml">
+      <configuration name="RedisDaoTest.testSeckill" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceTest_executeSeckill - 2018.06.22 at 18h 08m 01s.xml">
-      <configuration name="SeckillServiceTest.executeSeckill" configurationId="JUnit" />
+    <history-entry file="RedisDaoTest_testSeckill - 2018.06.25 at 20h 45m 55s.xml">
+      <configuration name="RedisDaoTest.testSeckill" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceTest_exportSeckillLogic - 2018.06.22 at 18h 12m 38s.xml">
-      <configuration name="SeckillServiceTest.exportSeckillLogic" configurationId="JUnit" />
+    <history-entry file="RedisDaoTest_testSeckill - 2018.06.25 at 20h 46m 31s.xml">
+      <configuration name="RedisDaoTest.testSeckill" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SeckillServiceTest_exportSeckillLogic - 2018.06.25 at 13h 49m 53s.xml">
-      <configuration name="SeckillServiceTest.exportSeckillLogic" configurationId="JUnit" />
+    <history-entry file="RedisDaoTest_testSeckill - 2018.06.25 at 20h 47m 18s.xml">
+      <configuration name="RedisDaoTest.testSeckill" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35578000" />
+    <option name="totallyTimeSpent" value="46408000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="155" y="157" width="1384" height="864" extended-state="0" />
+    <frame x="474" y="127" width="1384" height="864" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -663,18 +615,18 @@
       <window_info id="Structure" order="1" sideWeight="0.500821" side_tool="true" weight="0.22809668" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.6987741" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.49833518" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Messages" order="0" weight="0.19967532" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.14104372" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="3" weight="0.25669956" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.5148096" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4992948" visible="true" weight="0.22809668" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4992948" visible="true" weight="0.22809668" />
       <window_info anchor="bottom" id="Problems" weight="0.48768473" />
       <window_info id="Web" order="6" sideWeight="0.50070524" side_tool="true" weight="0.22809668" />
       <window_info anchor="right" id="Theme Preview" order="7" />
@@ -693,14 +645,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -727,27 +677,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" lean-forward="true" selection-end-line="52" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1208">
-          <caret line="140" column="31" selection-start-line="140" selection-start-column="31" selection-end-line="140" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/entity/SuccessKilled.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" column="35" lean-forward="true" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/entity/Seckill.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="75" column="26" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -784,20 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="233">
           <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/exception/SeckillCloseException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/exception/RepeatKillException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="48" lean-forward="true" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -855,13 +770,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
-          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-service.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -887,13 +795,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/dto/SeckillResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
@@ -931,31 +832,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/service/SeckillService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/service/impl/SeckillServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-389">
-          <caret line="75" column="19" lean-forward="true" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/list.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="542">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
@@ -969,6 +849,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Desktop/seckill/src/main/webapp/WEB-INF/jsp/detail.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="76" column="11" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/detail.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -976,17 +863,146 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/seckill/src/main/webapp/WEB-INF/jsp/detail.jsp">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/script/seckill.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="76" column="11" lean-forward="true" selection-start-line="76" selection-start-column="11" selection-end-line="76" selection-end-column="11" />
+        <state relative-caret-position="2413">
+          <caret line="129" column="45" selection-start-line="129" selection-start-column="45" selection-end-line="129" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/resources/script/seckill.js">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1197">
-          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        <state relative-caret-position="456">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/service/SeckillService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/entity/SuccessKilled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="41" column="35" selection-start-line="41" selection-start-column="35" selection-end-line="41" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/entity/Seckill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="75" column="26" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/dto/SeckillResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/exception/RepeatKillException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="48" selection-end-line="9" selection-end-column="48" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/exception/SeckillCloseException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="59" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.7.3/jedis-2.7.3.jar!/redis/clients/jedis/Connection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="91" selection-start-line="91" selection-end-line="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring/spring-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-pool2/2.3/commons-pool2-2.3.jar!/org/apache/commons/pool2/impl/GenericObjectPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="141" selection-start-line="141" selection-end-line="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.7.3/jedis-2.7.3.jar!/redis/clients/util/Pool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#728#922#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/redis/clients/jedis/2.7.3/jedis-2.7.3.jar!/redis/clients/jedis/JedisPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/igreedy/dao/cache/RedisDaoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="38" column="43" lean-forward="true" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/dao/cache/RedisDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="54" column="25" lean-forward="true" selection-start-line="54" selection-start-column="25" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/igreedy/service/impl/SeckillServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
         </state>
       </provider>
     </entry>

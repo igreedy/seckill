@@ -2,6 +2,7 @@ package com.igreedy.service.impl;
 
 import com.igreedy.dao.SeckillDao;
 import com.igreedy.dao.SuccessKilledDao;
+import com.igreedy.dao.cache.RedisDao;
 import com.igreedy.dto.Exposer;
 import com.igreedy.dto.SeckillExecution;
 import com.igreedy.entity.Seckill;
@@ -38,6 +39,9 @@ public class SeckillServiceImpl implements SeckillService {
     @Autowired
     private SuccessKilledDao successKilledDao;
 
+    @Autowired
+    private RedisDao redisDao;
+
     // md5验证字符串，用来混淆，不让别人能猜到
     private final String slat = "sdfal./,';'*&$#+><)(())";
 
@@ -52,10 +56,24 @@ public class SeckillServiceImpl implements SeckillService {
     }
 
     public Exposer exportSeckillUrl(long seckillId) {
-        Seckill seckill = seckillDao.queryById(seckillId);
+        // 优化点：缓存优化,在超时的基础上维护一致性
+        // 1: 访问redis
+        Seckill seckill = redisDao.getSeckill(seckillId);
         if (seckill == null) {
-            return new Exposer(false, seckillId);
+            //2: 访问数据库
+            seckill = seckillDao.queryById(seckillId);
+            if (seckill == null){
+                return new Exposer(false, seckillId);
+            }else{
+                //3：放入redis
+                redisDao.putSeckill(seckill);
+            }
         }
+
+//        Seckill seckill = seckillDao.queryById(seckillId);
+//        if (seckill == null) {
+//            return new Exposer(false, seckillId);
+//        }
         Date startTime = seckill.getStartTime();
         Date endTime = seckill.getEndTime();
         //系统当前时间
